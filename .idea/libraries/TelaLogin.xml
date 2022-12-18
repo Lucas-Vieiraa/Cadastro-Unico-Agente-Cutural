@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TelaLogin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CardÚnico/dist/TelaLogin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

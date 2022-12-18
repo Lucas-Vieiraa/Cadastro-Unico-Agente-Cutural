@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JAR conexão e formatação">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JAR conexão e formatação/JMascara1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JAR conexão e formatação/SafeGuard 0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JAR conexão e formatação/mysql-connector-java-8.0.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

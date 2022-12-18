@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="252a5ac3-834c-4be6-90f9-3119caaa1635" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Projeto-Cadastro-Unico-Agente-Cutural.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Controller/AlterarSenhaCONTROLLER.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Controller/CadastroCONTROLLER.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Controller/Helper/AlterarSenhaHELPER.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Controller/Helper/CadastroHELPER.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Controller/Helper/LoginHELPER.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Controller/LoginCONTROLLER.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Dao/AlterarSenhaDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Dao/CadastroDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Dao/ConexaoDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Dao/DadosPessoaisDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Dao/LoginDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Dao/UsuarioDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/LoginView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/LoginView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/LoginView$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/LoginView$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/Model/UsuarioMODEL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/TelaLogin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/TelaLogin$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/TelaLogin$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/TelaLogin$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/AlterarSenhaVIEW$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/AlterarSenhaVIEW$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/AlterarSenhaVIEW$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/AlterarSenhaVIEW$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/AlterarSenhaVIEW$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/AlterarSenhaVIEW$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/AlterarSenhaVIEW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/AlterarSenhaVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/CadastroVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/DadosPessoaisVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/LoginVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/TelaPrincipalVIEW$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/TelaPrincipalVIEW$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/TelaPrincipalVIEW$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/TelaPrincipalVIEW$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/TelaPrincipalVIEW$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/TelaPrincipalVIEW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/TelaPrincipalVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/imagens/Branco Top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/build/classes/View/imagens/Cinza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/dist/TelaLogin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/dist/lib/AbsoluteLayout.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/dist/lib/beansbinding-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/nbproject/private/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Controller/AlterarSenhaCONTROLLER.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Controller/CadastroCONTROLLER.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Controller/Helper/AlterarSenhaHELPER.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Controller/Helper/CadastroHELPER.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Controller/Helper/LoginHELPER.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Controller/LoginCONTROLLER.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Dao/AlterarSenhaDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Dao/CadastroDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Dao/ConexaoDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Dao/DadosPessoaisDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Dao/LoginDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Dao/UsuarioDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/Model/UsuarioMODEL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/AlterarSenhaVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/AlterarSenhaVIEW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/CadastroVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/CadastroVIEW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/DadosPessoaisVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/DadosPessoaisVIEW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/LoginVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/LoginVIEW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/TelaPrincipalVIEW.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/TelaPrincipalVIEW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/imagens/Branco Top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/CardÚnico/src/View/imagens/Cinza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/Documentação/PPOO - Falta adicionar algumas coisas.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/JAR conexão e formatação/JMascara1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/JAR conexão e formatação/mysql-connector-java-8.0.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cadastro Unico/Script do banco em Mysql Workbench/cadastro.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J2YgFgV5Onf5PyaKGZwKSVSj7u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/lucia/Documents/GitHub/Projeto-Cadastro-Unico-Agente-Cutural",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="252a5ac3-834c-4be6-90f9-3119caaa1635" name="Changes" comment="" />
+      <created>1671277800627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671277800627</updated>
+      <workItem from="1671277819232" duration="421000" />
+      <workItem from="1671379359393" duration="78000" />
+      <workItem from="1671379488843" duration="413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
