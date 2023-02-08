@@ -2,6 +2,8 @@
 
 > <p align="justify"> Projeto Para Faculdade - 1ª AV de POO! Criação de um sistema básico para cadastros de agentes culturais </p>
 
+:man_technologist: Projeto Desenvolvido com: [ Java, Padrão Mvc e Dao, Jdbc, Jar, Api Swing, Sql, Git/GitHub](https://github.com/Lucas-Vieiraa/Projeto-Cadastro-Unico-Agente-Cutural/edit/main/README.md#round_pushpin-informa%C3%A7%C3%B5es-adicionais).
+
 # 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -17,6 +19,49 @@ Tecnologias que você precisa para executar o sistema corretamente!
 - API Swing (Já vem integrado no NetBeans)
 - MySQL Server e MySQL Workbench
 ```
+# :round_pushpin: Informações Adicionais
+
+Informações que podem ajudar a ter um melhor entendimento sobre o projeto!
+
+```
+1 - Java
+```
+* [O que é Java](https://www.java.com/pt-BR/download/help/whatis_java.html) - [Download Java](https://www.java.com/pt-BR/download/)
+```
+2 - Padrão MVC e DAO
+```
+* [O que é MVC](https://pt.wikipedia.org/wiki/MVC) - [O que é DAO](https://pt.wikipedia.org/wiki/Objeto_de_acesso_a_dados) - [Imagem Ilustrativa](https://github.com/Lucas-Vieiraa/Projeto-Cadastro-Unico-Agente-Cutural/files/10687610/PADRAO.MVC.COM.DAO.zip)
+```
+3 - Jdbc
+```
+* [O que é JDBC](https://www.ibm.com/docs/pt-br/developer-for-zos/14.1?topic=support-what-is-jdbc)
+```
+4 - Jar
+    
+    4.1 - JMascara (JAR usado para validações das regras de dados. Por exemplo: Datas e etc)
+    4.2 - Safeguard (JAR usado para validações das regras de dados. Por exemplo: Cpf,Cnpj e etc)
+    4.3 - Mysql-Connector (Jar usado para estabelecer conexão com o banco de dados)
+```
+* [O que é JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html) - [JAR Ultilizados no Projeto](https://github.com/Lucas-Vieiraa/Projeto-Cadastro-Unico-Agente-Cutural/tree/main/JAR%20conex%C3%A3o%20e%20formata%C3%A7%C3%A3o)
+```
+5 - Api Swing
+```
+* [O que é Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
+
+```
+6 - SQL
+```
+* [O que é SQL](https://pt.wikipedia.org/wiki/SQL)
+```
+7 - Git
+```
+* [O que é](https://git-scm.com/) - [Download Git](https://git-scm.com/downloads) - [Primeiros Passos](https://git-scm.com/book/en/v2)
+
+```
+8 - GitHub
+```
+* [O que é](https://github.com/about) - [Download GitHub Desktop](https://desktop.github.com/) - [Primeiros Passos](https://docs.github.com/pt/get-started)
+
 
 # 🔧 Instalação
  Um passo-a-passo que você deve executar para ter todos os requisitos  e  para ter um ambiente de desenvolvimento em execução.
