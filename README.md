@@ -16,7 +16,6 @@ Tecnologias que você precisa para executar o sistema corretamente!
 ```
 - JDK (Java Development Kit) 11 ou superior.
 - NetBeans para o Back-End e Front-End
-- API Swing (Já vem integrado no NetBeans)
 - MySQL Server e MySQL Workbench
 ```
 # :round_pushpin: Informações Adicionais
@@ -45,6 +44,8 @@ Informações que podem ajudar a ter um melhor entendimento sobre o projeto!
 * [O que é JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html) - [JAR Ultilizados no Projeto](https://github.com/Lucas-Vieiraa/Projeto-Cadastro-Unico-Agente-Cutural/tree/main/JAR%20conex%C3%A3o%20e%20formata%C3%A7%C3%A3o)
 ```
 5 - Api Swing
+
+    5.1 - Já vem integrado no Netbeans
 ```
 * [O que é Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
 
@@ -73,20 +74,19 @@ Siga as etapas:
 
     1.1 - Caso não tenha clique no link a baixo 
 ```
-* [JDK](https://www.oracle.com/java/technologies/downloads/)
-
+* [O QUE É](https://www.java.com/pt-BR/download/help/techinfo_pt-br.html) - [DOWNLOAD JDK](https://www.oracle.com/java/technologies/downloads/) - [COMO CONFIGURAR](https://docs.oracle.com/en/industries/retail/retail-insights-cloud/21.0/ricsg/setting-java-development-kit-jdk.htm#GUID-7F83700D-CDA0-48AB-A4F1-95F05155C141)
 ```
 2 - Verifique se você possui o NETBEANS
 
     2.1 - Caso não tenha clique no link a baixo
 ```
-* [NETBEANS](https://netbeans.apache.org/download/archive)
+* [O QUE É](https://netbeans.apache.org/) - [DOWNLOAD NETBEANS](https://netbeans.apache.org/download/archive)
 ```
 3 - Verifique se você possui o MySQL server e MySQL workbench
 
     3.1 - Caso não tenha clique no link a baixo
 ```
-* [MYSQL](https://dev.mysql.com/downloads/installer)
+* [O QUE É](https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html) - [DOWNLOAD MYSQL](https://dev.mysql.com/downloads/installer)
 
 # 📦 Implantação
 
@@ -116,4 +116,9 @@ Nós usamos [GIT](https://git-scm.com/downloads) para controle de versão no [GI
 
 # ✒️ Autor
     
-* Luciano Lucas Vieira Da Silva - [Lucas Vieira](https://github.com/Lucas-Vieiraa)
+* Luciano Lucas Vieira Da Silva - DEV. BackEnd - [Lucas Vieira](https://github.com/Lucas-Vieiraa)
+
+# :hugs: Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢;
+* Convide alguém para um café	:coffee:;
